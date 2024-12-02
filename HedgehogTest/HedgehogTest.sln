@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HedgehogTest.Core", "HedgehogTest.Core\HedgehogTest.Core.csproj", "{F2584197-F9D6-4FCC-8D50-D600276AA06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HedgehogTest.UnitTests", "HedgehogTest.UnitTests\HedgehogTest.UnitTests.csproj", "{57BAF269-5D7A-4DBC-A730-DE27161D1030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2584197-F9D6-4FCC-8D50-D600276AA06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2584197-F9D6-4FCC-8D50-D600276AA06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2584197-F9D6-4FCC-8D50-D600276AA06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2584197-F9D6-4FCC-8D50-D600276AA06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BAF269-5D7A-4DBC-A730-DE27161D1030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BAF269-5D7A-4DBC-A730-DE27161D1030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BAF269-5D7A-4DBC-A730-DE27161D1030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BAF269-5D7A-4DBC-A730-DE27161D1030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
